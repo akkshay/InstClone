@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstClone/loginViewController.swift"
+            timestampString = "442165104.988335"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "logIn(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.loginViewController.(logIn (InstClone.loginViewController) -&gt; (Swift.AnyObject) -&gt; ()).(closure #1)"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/InstClone/loginViewController.swift"
+                  timestampString = "442165105.300374"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "reabstraction thunk helper from @callee_owned (@owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.PFUser&gt;, @owned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ()) to @callee_unowned @objc_block (@unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.PFUser&gt;, @unowned Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; (@unowned ())"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/InstClone/loginViewController.swift"
+                  timestampString = "442165105.300556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UserTableViewController.swift"
+            timestampString = "442197223.467664"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "UserTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.UserTableViewController.users.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/UserTableViewController.swift"
+                  timestampString = "442197631.593091"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.UserTableViewController.users.materializeForSet : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/UserTableViewController.swift"
+                  timestampString = "442197631.5932"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.UserTableViewController.init (InstClone.UserTableViewController.Type)(style : C.UITableViewStyle) -&gt; InstClone.UserTableViewController"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/UserTableViewController.swift"
+                  timestampString = "442197631.593287"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.UserTableViewController.init (InstClone.UserTableViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; InstClone.UserTableViewController"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/UserTableViewController.swift"
+                  timestampString = "442197631.593369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.UserTableViewController.init (InstClone.UserTableViewController.Type)() -&gt; InstClone.UserTableViewController"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/UserTableViewController.swift"
+                  timestampString = "442197631.59345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstClone.UserTableViewController.init (InstClone.UserTableViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; InstClone.UserTableViewController"
+                  moduleName = "InstClone"
+                  urlString = "file:///Users/akkshay/Documents/Apps/InstClone/UserTableViewController.swift"
+                  timestampString = "442197631.59353"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstClone/ViewController.swift"
+            timestampString = "442423724.915322"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "signup(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
